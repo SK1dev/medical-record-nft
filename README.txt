@@ -32,8 +32,6 @@
 
 * A patient may be unable to grant access and therefore an emergency contact would need to be able to grant permission on their behalf.
 
-* IPFS may not hold the files longterm if they are unused and therefore permanent decentralized storage would be better.
-
 * A payment system would need to be added.
 
 * Hyperledger Fabric would be a great platform to build this project.
