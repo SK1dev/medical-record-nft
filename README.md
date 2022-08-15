@@ -26,7 +26,7 @@
 
 * The patient can revoke permission for the medical professional at any time. The medical record would then no longer be visible to that medical professional/hospital.
 
- * An NFT can be created with the image/file being stored on the blockchain using IPFS. This is useful for test result, scans, x-rays etc.
+ * An NFT can be created with the image/file being stored on IPFS. This is useful for test result, scans, x-rays etc.
 
 ### Points to consider/Recommendations:
 
